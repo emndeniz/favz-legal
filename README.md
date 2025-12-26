@@ -6,20 +6,14 @@ Favz is a personal app for saving, organizing, and sharing links, images, ideas,
 These documents explain how the app is used, how content is moderated, and how user data is handled.
 
 ---
-
-## 📄 Documents
-
 ### English (Authoritative)
 The English versions are the **official and legally binding** documents.
 
-- **Privacy Policy**  
-  `en/PRIVACY_POLICY.md`
+- [Privacy Policy (EN)](https://emndeniz.github.io/favz-legal/en/PRIVACY_POLICY.html)
 
-- **Terms of Service**  
-  `en/TERMS_OF_SERVICE.md`
+- [Terms of Service (EN)](https://emndeniz.github.io/favz-legal/en/TERMS_OF_SERVICE.html)
 
-- **Content & Community Guidelines**  
-  `en/CONTENT_GUIDELINES.md`
+- [Content & Community Guidelines (EN)](https://emndeniz.github.io/favz-legal/en/CONTENT_GUIDELINES.html)
 
 ---
 
@@ -27,31 +21,18 @@ The English versions are the **official and legally binding** documents.
 Türkçe sürümler yalnızca bilgilendirme amacıyla sunulmuştur.  
 Herhangi bir çelişki durumunda **İngilizce sürüm geçerlidir**.
 
-- **Gizlilik Politikası**  
-  `tr/PRIVACY_POLICY.md`
+- [Gizlilik Politikası (TR)](https://emndeniz.github.io/favz-legal/tr/PRIVACY_POLICY.html)
 
-- **Kullanım Koşulları**  
-  `tr/TERMS_OF_SERVICE.md`
+- [Kullanım Koşulları (TR)](https://emndeniz.github.io/favz-legal/tr/TERMS_OF_SERVICE.html)
 
-- **İçerik ve Topluluk Kuralları**  
-  `tr/CONTENT_GUIDELINES.md`
-
----
-
-## 🌐 Public Access
-These documents are publicly accessible and do not require an account or login.
-
-They may be linked from:
-- The Favz mobile application
-- App Store metadata
-- Support or review processes
+- [İçerik ve Topluluk Kuralları (TR)](https://emndeniz.github.io/favz-legal/tr/CONTENT_GUIDELINES.html)
 
 ---
 
 ## 🔄 Updates
 The documents may be updated from time to time.
 
-The **“Last updated”** date at the top of each document indicates the current version.
+The **Last updated** date at the top of each document indicates the current version.
 
 Continued use of the Favz app after updates constitutes acceptance of the latest versions.
 
@@ -60,8 +41,8 @@ Continued use of the Favz app after updates constitutes acceptance of the latest
 ## 📬 Contact
 If you have questions about these documents or Favz’s policies, you can contact the app owner:
 
-**Favz App**  
-📧 appfavz@gmail.com
+**Mehmet Emin Deniz**  
+📧 emndeniz@gmail.com
 
 ---
 
