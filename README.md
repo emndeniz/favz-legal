@@ -60,8 +60,8 @@ Continued use of the Favz app after updates constitutes acceptance of the latest
 ## 📬 Contact
 If you have questions about these documents or Favz’s policies, you can contact the app owner:
 
-**Mehmet Emin Deniz**  
-📧 emndeniz@gmail.com
+**Favz App**  
+📧 appfavz@gmail.com
 
 ---
 
