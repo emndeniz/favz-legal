@@ -1,11 +1,11 @@
 # Content & Community Guidelines
 
-**Last updated:** 26 December 2025
+**Last updated:** 1 March 2026
 
 Favz is a platform for collecting, organizing, and sharing inspirations, ideas, and useful content.  
 To keep Favz safe and welcoming, all users must follow these Content & Community Guidelines.
 
-These rules apply to **all user-generated content**, including text, links, images, lists, and items — especially content made public.
+These rules apply to **all user-generated content**, including text, links, images, lists, and items — especially content made public. We maintain a **zero-tolerance policy** for objectionable content and abusive users.
 
 ---
 
@@ -21,7 +21,7 @@ If you are unsure whether content is allowed, **do not post it publicly**.
 ---
 
 ## 2. Prohibited Content
-You may **not** upload, share, or make public any content that includes or promotes:
+You may **not** upload, share, or make public any objectionable content, including but not limited to content that promotes:
 
 ### Sexual Content
 - Pornography or explicit sexual content
@@ -86,43 +86,32 @@ Reported links may be removed or blocked.
 
 ---
 
-## 6. Reporting Content
-Favz provides tools to report public content that violates these Guidelines.
+## 6. Reporting Content and Blocking Users
+Favz provides in-app tools to report public content and block users that violate these Guidelines.
 
-When content is reported, we may:
-- Temporarily hide the content
-- Review it manually
-- Remove it permanently
-- Take action against the responsible account
+**Reporting & 24-Hour Review:** We take moderation seriously. When content or a user is reported, we commit to reviewing the report within 24 hours. We may temporarily hide the content during this review process.
 
-Abuse of the reporting system may also result in action.
+**Blocking Users:** If you encounter a user violating these guidelines or making you uncomfortable, you can use the in-app block feature to prevent them from interacting with you or your content.
 
 ---
 
 ## 7. Enforcement
 We reserve the right to:
-- Remove or restrict content at any time
+- Remove, filter, or restrict objectionable content at any time
 - Suspend or permanently ban accounts
 - Take action without prior notice
 
-Repeated or severe violations may result in permanent removal from Favz.
-
-Moderation decisions are final.
+Repeated or severe violations will result in permanent removal from Favz. Moderation decisions are final.
 
 ---
 
 ## 8. Responsibility
-Favz does not pre-moderate all content.  
-Users are solely responsible for the content they upload or share.
-
-However, we take reports seriously and act promptly when violations are identified.
+Favz does not pre-moderate all content. Users are solely responsible for the content they upload or share. However, we act promptly when violations are identified through our reporting system.
 
 ---
 
 ## 9. Updates to These Guidelines
-We may update these Guidelines from time to time.
-
-Continued use of Favz after changes means you accept the updated version.
+We may update these Guidelines from time to time. Continued use of Favz after changes means you accept the updated version.
 
 ---
 

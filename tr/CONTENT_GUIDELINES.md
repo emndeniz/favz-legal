@@ -3,135 +3,124 @@
 
 # İçerik ve Topluluk Kuralları
 
-**Son güncelleme:** 26 Aralık 2025
+**Son güncelleme:** 1 Mart 2026
 
-Favz; ilham verici fikirlerin, bağlantıların ve faydalı içeriklerin toplanması, düzenlenmesi ve paylaşılması için bir platformdur.  
-Favz’in güvenli ve herkes için uygun bir ortam olarak kalabilmesi için tüm kullanıcıların bu İçerik ve Topluluk Kurallarına uyması gerekir.
+Favz; ilhamları, fikirleri ve faydalı içerikleri toplamak, düzenlemek ve paylaşmak için bir platformdur.  
+Favz'ı güvenli ve samimi tutmak için tüm kullanıcılar bu İçerik ve Topluluk Kurallarına uymalıdır.
 
-Bu kurallar; metinler, bağlantılar, görseller, listeler ve öğeler dahil olmak üzere **tüm kullanıcı tarafından oluşturulan içerikler** için geçerlidir — özellikle herkese açık içerikler için.
+Bu kurallar, metin, bağlantılar, resimler, listeler ve öğeler dahil olmak üzere **kullanıcı tarafından oluşturulan tüm içerikler** — özellikle de herkese açık hale getirilen içerikler — için geçerlidir. Sakıncalı içerik ve kötü niyetli kullanıcılar için **sıfır tolerans politikası** uyguluyoruz.
 
 ---
 
 ## 1. Genel İlkeler
-Favz’i kullanarak şunları kabul edersiniz:
-- İçeriği sorumlu şekilde paylaşmayı
-- Diğer kullanıcılara saygı göstermeyi
-- Yürürlükteki yasalara uymayı
-- Bu Kurallara her zaman riayet etmeyi
+Favz'ı kullanarak aşağıdakileri kabul edersiniz:
+- İçeriği sorumlu bir şekilde paylaşmak
+- Diğer kullanıcılara saygı göstermek
+- Yürürlükteki yasalara uymak
+- Bu Kurallara her zaman uymak
 
-Bir içeriğin uygun olup olmadığından emin değilseniz, **herkese açık olarak paylaşmayın**.
+Bir içeriğe izin verilip verilmediğinden emin değilseniz, **herkese açık olarak paylaşmayın**.
 
 ---
 
-## 2. Yasaklanan İçerikler
-Aşağıdaki içeriklerin yüklenmesi, paylaşılması veya herkese açık hale getirilmesi **kesinlikle yasaktır**:
+## 2. Yasaklanmış İçerik
+Aşağıdakileri teşvik eden içerikler dahil ancak bunlarla sınırlı olmamak üzere, hiçbir sakıncalı içeriği yükleyemez, paylaşamaz veya herkese açık hale **getiremezsiniz**:
 
 ### Cinsel İçerik
-- Pornografik veya açık cinsel içerik
-- Cinsel uyarım amaçlı fetiş içerikler
-- **Reşit olmayanları içeren her türlü cinsel içerik (sıfır tolerans)**
+- Pornografi veya açık cinsel içerik
+- Cinsel uyarılma amaçlı fetiş içeriği
+- **Küçükleri içeren her türlü cinsel içerik** (sıfır tolerans)
 
 ### Şiddet ve Zarar
-- Grafik şiddet veya ağır fiziksel zarar
-- Şiddet tehdidi
-- Kendine zarar verme veya intiharı teşvik eden içerikler
-- Terörist veya aşırılıkçı içerikler
+- Grafik şiddet veya fiziksel yaralanma
+- Şiddet tehditleri
+- Kendine zarar verme veya intiharın teşvik edilmesi
+- Terörist veya aşırılık yanlısı içerik
 
 ### Nefret ve Taciz
-- Bireylere veya gruplara yönelik nefret söylemi
-- Taciz, zorbalık veya yıldırma
-- Irk, etnik köken, din, cinsiyet, cinsel yönelim veya engellilik temelli ayrımcılık
+- Bireyleri veya grupları hedef alan nefret söylemi
+- Taciz, zorbalık veya gözdağı verme
+- Irk, etnik köken, din, cinsiyet, cinsel yönelim veya engellilik temelinde ayrımcılık
 
 ### Yasadışı veya Zararlı Faaliyetler
-- Yasadışı ürün veya hizmetler
-- Uyuşturucu ticareti veya kullanımına yönelik yönlendirmeler
-- Dolandırıcılık, aldatma veya sahtekârlık
-- Zararlı yazılım, kimlik avı veya kötü niyetli bağlantılar
+- Yasadışı mallar veya hizmetler
+- Uyuşturucu kaçakçılığı veya talimatları
+- Dolandırıcılık, sahtekarlık veya aldatıcı uygulamalar
+- Kötü amaçlı yazılım, kimlik avı veya kötü amaçlı bağlantılar
 
 ### Fikri Mülkiyet İhlalleri
-- Hak sahibi olmadığınız telifli içerikler
+- Sahibi olmadığınız veya haklarına sahip olmadığınız telif hakkıyla korunan materyal
 - Korsan yazılım, medya veya indirme bağlantıları
 
 ### Spam ve Kötüye Kullanım
-- Tekrarlayan veya yanıltıcı içerikler
-- Tanıtım amaçlı spam
-- Otomatik veya toplu paylaşımlar
+- Tekrarlayan veya yanıltıcı içerik
+- Promosyon amaçlı spam
+- Otomatik veya toplu gönderim
 
 ---
 
-## 3. Herkese Açık ve Özel İçerik
-- **Özel içerikler** yalnızca size görünür ve daha düşük risk taşır
-- **Herkese açık içerikler** diğer kullanıcılar tarafından görülebilir ve raporlanabilir
+## 3. Herkese Açık ve Gizli İçerik
+- **Gizli içerik** yalnızca sizin tarafınızdan görülebilir ve daha düşük risk taşır
+- **Herkese açık içerik** başkaları tarafından görülebilir ve bildirilebilir
 
-Bir içeriği herkese açık hale getirdiğinizde, bununla ilgili sorumluluğu da kabul etmiş olursunuz.
+İçeriği herkese açık hale getirmeyi seçerseniz, paylaştıklarınız için daha fazla sorumluluk kabul edersiniz.
 
 ---
 
-## 4. Görseller
-Favz’e yüklenen görseller:
-- Genel kitleye uygun olmalıdır
+## 4. Resimler
+Favz'a yüklenen resimler şunları sağlamalıdır:
+- Genel izleyici kitlesine uygun olmalıdır
 - Çıplaklık, cinsel eylemler veya aşırı şiddet içermemelidir
-- İstismar, sömürü veya yasa dışı faaliyetleri tasvir etmemelidir
+- İstismar, sömürü veya yasadışı faaliyetleri tasvir etmemelidir
 
-Görseller otomatik veya manuel olarak incelenebilir.
+Resimler otomatik veya manuel olarak incelenebilir.
 
 ---
 
 ## 5. Bağlantılar
-Paylaştığınız bağlantılardan siz sorumlusunuz.
+Paylaştığınız tüm bağlantılardan siz sorumlusunuz.
 
-Bağlantılar:
-- Pornografik veya şiddet içeren sitelere yönlendirmemeli
-- Yasa dışı faaliyetleri teşvik etmemeli
-- Kullanıcıları yanıltmamalı veya kötü niyet gizlememelidir
+Bağlantılar şunları yapmamalıdır:
+- Pornografik veya şiddet içeren web sitelerine yönlendirmemelidir
+- Yasadışı faaliyetleri teşvik etmemelidir
+- Kullanıcıları yanıltmamalı veya kötü niyetleri gizlememelidir
 
-Raporlanan bağlantılar kaldırılabilir veya engellenebilir.
-
----
-
-## 6. İçerik Bildirme
-Favz, herkese açık ve bu Kuralları ihlal eden içeriklerin bildirilmesi için araçlar sunar.
-
-Bir içerik bildirildiğinde:
-- İçerik geçici olarak gizlenebilir
-- Manuel inceleme yapılabilir
-- İçerik kalıcı olarak kaldırılabilir
-- Sorumlu hesaba işlem uygulanabilir
-
-Bildirim sisteminin kötüye kullanılması da yaptırıma tabi olabilir.
+Bildirilen bağlantılar kaldırılabilir veya engellenebilir.
 
 ---
 
-## 7. Yaptırımlar
-Favz aşağıdaki hakları saklı tutar:
-- İçeriği herhangi bir zamanda kaldırma veya kısıtlama
-- Hesapları geçici veya kalıcı olarak askıya alma
-- Önceden bildirimde bulunmaksızın işlem yapma
+## 6. İçeriği Bildirme ve Kullanıcıları Engelleme
+Favz, herkese açık içeriği bildirmek ve bu Kuralları ihlal eden kullanıcıları engellemek için uygulama içi araçlar sağlar.
 
-Tekrarlayan veya ağır ihlaller kalıcı hesap kapatmayla sonuçlanabilir.
+**Bildirme ve 24 Saatlik İnceleme:** Moderasyonu ciddiye alıyoruz. Bir içerik veya kullanıcı bildirildiğinde, raporu 24 saat içinde incelemeyi taahhüt ediyoruz. Bu inceleme sürecinde içeriği geçici olarak gizleyebiliriz.
 
-Moderasyon kararları kesindir.
+**Kullanıcıları Engelleme:** Bu kuralları ihlal eden veya sizi rahatsız eden bir kullanıcıyla karşılaşırsanız, sizinle veya içeriğinizle etkileşime girmesini önlemek için uygulama içi engelleme özelliğini kullanabilirsiniz.
+
+---
+
+## 7. Yaptırım
+Aşağıdaki haklarımızı saklı tutarız:
+- Sakıncalı içeriği istediğimiz zaman kaldırmak, filtrelemek veya kısıtlamak
+- Hesapları askıya almak veya kalıcı olarak yasaklamak
+- Önceden haber vermeksizin işlem yapmak
+
+Tekrarlanan veya ciddi ihlaller, Favz'dan kalıcı olarak uzaklaştırmayla sonuçlanacaktır. Moderasyon kararları nihaidir.
 
 ---
 
 ## 8. Sorumluluk
-Favz tüm içerikleri önceden denetlemez.  
-Kullanıcılar yükledikleri ve paylaştıkları içeriklerden kendileri sorumludur.
-
-Bununla birlikte, bildirilen ihlaller ciddiyetle ele alınır ve gerekli işlemler hızlıca yapılır.
+Favz tüm içeriği önceden denetlemez. Kullanıcılar, yükledikleri veya paylaştıkları içerikten tek başlarına sorumludur. Ancak, bildirim sistemimiz aracılığıyla ihlaller tespit edildiğinde derhal harekete geçeriz.
 
 ---
 
-## 9. Güncellemeler
-Bu Kurallar zaman zaman güncellenebilir.
-
-Güncellemelerden sonra Favz’i kullanmaya devam etmeniz, güncel sürümü kabul ettiğiniz anlamına gelir.
+## 9. Bu Kurallardaki Güncellemeler
+Bu Kuralları zaman zaman güncelleyebiliriz. Değişikliklerden sonra Favz'ı kullanmaya devam etmeniz, güncellenmiş sürümü kabul ettiğiniz anlamına gelir.
 
 ---
 
 ## 10. İletişim
-Bu Kurallar hakkında sorularınız veya endişeleriniz varsa, uygulama üzerinden veya resmi destek kanallarımız aracılığıyla bizimle iletişime geçebilirsiniz.
+Bu Kurallar hakkında sorularınız veya endişeleriniz varsa, lütfen Uygulama üzerinden veya resmi destek kanallarımız aracılığıyla bizimle iletişime geçin.
 
 ---
 
-**Favz’i kullanarak bu İçerik ve Topluluk Kurallarına uymayı kabul etmiş olursunuz.**
+**Favz'ı kullanarak, bu İçerik ve Topluluk Kurallarına uymayı kabul edersiniz.**

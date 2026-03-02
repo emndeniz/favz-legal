@@ -1,136 +1,103 @@
 > Bu belge bilgilendirme amacıyla Türkçe olarak sunulmuştur.  
 > Herhangi bir çelişki durumunda İngilizce sürüm geçerlidir.
 
-# Kullanım Koşulları
+# Hizmet Şartları
 
-**Son güncelleme:** 26 Aralık 2025
+**Son güncelleme:** 1 Mart 2026
 
-Favz’e (“Uygulama”, “Hizmet”) hoş geldiniz.  
-Favz, Favz ekibi tarafından işletilmektedir (“biz”, “bize”, “bizim”).
-
-Uygulamayı kullanarak bu Kullanım Koşullarını (“Koşullar”) kabul etmiş olursunuz.  
-Koşulları kabul etmiyorsanız Uygulamayı kullanmayınız.
+Favz (“biz”, “bize”, “bizim”) tarafından işletilen **Favz**'a (“Uygulama”, “Hizmet”) hoş geldiniz.  
+Favz'a erişerek veya Favz'ı kullanarak, bu Hizmet Şartları (“Şartlar”) ve İçerik ve Topluluk Kurallarımız ile bağlı olmayı kabul edersiniz.  
+Kabul etmiyorsanız, Uygulamayı kullanmayın.
 
 ---
 
 ## 1. Uygunluk
-Favz’i kullanabilmek için **en az 13 yaşında** olmanız gerekir.  
-Yaşadığınız ülkede reşit değilseniz, ebeveyn veya yasal vasi izni gereklidir.
+Favz'ı kullanmak için en az **13 yaşında** (veya Avrupa Ekonomik Alanı'nda yaşıyorsanız **16 yaşında**) olmalısınız.  
+Ülkenizde reşit olma yaşının altındaysanız, bir ebeveynden veya yasal vasiden izin almanız gerekir.
 
 ---
 
 ## 2. Hesaplar
 Aşağıdakilerden siz sorumlusunuz:
-- Hesap bilgilerinizin gizliliği
-- Hesabınız üzerinden gerçekleştirilen tüm işlemler
+- Hesabınızın gizliliğini korumak
+- Hesabınız altında gerçekleşen tüm etkinlikler
 
-Doğru ve güncel bilgiler sağlamayı kabul edersiniz.  
-Koşulları ihlal eden hesaplar askıya alınabilir veya sonlandırılabilir.
+Doğru bilgi sağlamayı ve bu bilgileri güncel tutmayı kabul edersiniz.  
+Bu Şartları ihlal eden hesapları askıya alma veya sonlandırma hakkımızı saklı tutarız.
 
 ---
 
 ## 3. Kullanıcı Tarafından Oluşturulan İçerik
-Favz, kullanıcıların aşağıdaki içerikleri oluşturmasına ve paylaşmasına olanak tanır:
-- Metinler (başlıklar, açıklamalar)
-- Bağlantılar
-- Görseller
-- Listeler ve öğeler (“Kullanıcı İçeriği”)
+Favz, kullanıcıların metin, bağlantılar, resimler ve listeler dahil olmak üzere içerik oluşturmasına, yüklemesine, saklamasına ve paylaşmasına olanak tanır (“Kullanıcı İçeriği”).
 
 ### Mülkiyet
-Kullanıcı İçeriğinin mülkiyeti size aittir.
-
-Favz’e içerik yükleyerek, içeriğin hizmetin sunulması ve geliştirilmesi amacıyla barındırılması, saklanması ve gösterilmesi için **dünya çapında, telifsiz ve münhasır olmayan** bir lisans vermiş olursunuz.
+Kullanıcı İçeriğinizin mülkiyeti sizde kalır. Favz'a içerik yükleyerek, bize içeriğinizi yalnızca Hizmeti işletmek ve geliştirmek amacıyla barındırmak, depolamak, görüntülemek ve dağıtmak için **münhasır olmayan, dünya çapında, telifsiz bir lisans** vermiş olursunuz.
 
 ---
 
-## 4. Herkese Açık İçerik
-Bir içeriği herkese açık hale getirdiğinizde:
-- Diğer kullanıcılar tarafından görülebilir
-- Uygulama içinde paylaşılabilir
-- Diğer kullanıcılar tarafından raporlanabilir
+## 4. Herkese Açık İçerik ve Topluluk Kuralları
+Favz'ı kullanarak, **İçerik ve Topluluk Kurallarımıza** uymayı açıkça kabul edersiniz. 
+İçeriği herkese açık hale getirmeyi seçerseniz, bu durum görünürlüğü ve sorumluluğunuzu artırır. 
 
-Herkese açık içerik, daha fazla görünürlük ve sorumluluk anlamına gelir.
+Aşağıdakiler dahil ancak bunlarla sınırlı olmamak üzere herhangi bir sakıncalı içeriği yüklememeyi, paylaşmamayı veya herkese açık hale getirmemeyi **kabul edersiniz**:
+- Pornografik, cinsel içerikli veya müstehcen materyaller
+- Küçükleri içeren cinsel içerik (sıfır tolerans)
+- Şiddeti, terörizmi veya aşırı zararı teşvik eden içerik
+- Nefret söylemi, taciz veya zorbalık
+- Fikri mülkiyet veya telif hakkı yasalarını ihlal eden materyal
 
----
-
-## 5. Yasaklı Davranışlar
-Aşağıdaki içeriklerin paylaşılması yasaktır:
-- Pornografik veya açık cinsel içerikler
-- Reşit olmayanları içeren cinsel içerikler
-- Şiddet, terör veya aşırı zarar
-- Nefret söylemi veya taciz
-- Telif hakkı ihlalleri
-- Yasadışı, yanıltıcı veya dolandırıcılık amaçlı içerikler
-- Zararlı yazılım veya kimlik avı bağlantıları
-- Spam veya kötüye kullanım
-
-Bu kuralları ihlal eden içerikler önceden bildirim yapılmaksızın kaldırılabilir.
+Bu kuralları ihlal eden herhangi bir içeriği **önceden bildirimde bulunmaksızın** kaldırma hakkımızı saklı tutarız.
 
 ---
 
-## 6. Bildirim ve Moderasyon
-Herkese açık uygunsuz içerikler raporlanabilir.
+## 5. Bildirme, Engelleme ve Moderasyon
+Favz, kullanıcıların kötü niyetli kullanıcıları engellemesi ve uygunsuz herkese açık içeriği bildirmesi için uygulama içi mekanizmalar sağlar.
 
-Raporlama sonrası:
-- İçerik incelenebilir
-- Görünürlük kısıtlanabilir
-- Hesap askıya alınabilir veya kalıcı olarak kapatılabilir
+Bir içerik veya kullanıcı bildirildiğinde, raporu 24 saat içinde incelemeyi taahhüt ediyoruz. Şunları yapabiliriz:
+- İçeriği kaldırmak, filtrelemek veya görünürlüğünü kısıtlamak
+- Sorumlu hesabı askıya almak veya kalıcı olarak yasaklamak
 
-Moderasyon kararları kesindir.
-
----
-
-## 7. Hesabın Askıya Alınması
-Aşağıdaki durumlarda hesabınız askıya alınabilir veya kapatılabilir:
-- Koşulların ihlali
-- Tekrarlayan kural ihlalleri
-- Güvenlik veya yasal risk oluşturulması
-
-Uygulamayı dilediğiniz zaman kullanmayı bırakabilirsiniz.
+Moderasyon kararları nihaidir.
 
 ---
 
-## 8. Üçüncü Taraf Bağlantıları
-Favz, üçüncü taraf web sitelerine veya hizmetlere bağlantılar içerebilir.
+## 6. Hesabın Askıya Alınması ve Sonlandırılması
+Aşağıdaki durumlarda Favz'a erişiminizi istediğiniz zaman askıya alabilir veya sonlandırabiliriz:
+- Bu Şartları veya İçerik ve Topluluk Kurallarımızı ihlal etmeniz
+- Eylemlerinizin yasal riskler veya güvenlik riskleri oluşturması
 
-Bu içeriklerden Favz sorumlu değildir.  
-Üçüncü taraf hizmetlere erişim kendi sorumluluğunuzdadır.
-
----
-
-## 9. Garanti Reddi
-Favz **“olduğu gibi”** ve **“mevcut haliyle”** sunulur.
-
-Hizmetin kesintisiz veya hatasız olacağına dair garanti verilmez.
+Uygulama içinden hesabınızı silerek Hizmeti kullanmayı istediğiniz zaman bırakabilirsiniz.
 
 ---
 
-## 10. Sorumluluğun Sınırlandırılması
-Yürürlükteki yasaların izin verdiği ölçüde Favz;
-- Veri kaybı
-- Dolaylı veya sonuçsal zararlar
-- Kullanıcı içerikleri
-- Yetkisiz hesap erişimleri
-
-nedeniyle sorumlu tutulamaz.
+## 7. Üçüncü Taraf Bağlantıları
+Favz, üçüncü taraf web sitelerine veya hizmetlerine bağlantılar içerebilir. Üçüncü tarafların içeriğinden, politikalarından veya uygulamalarından **sorumlu değiliz**. Üçüncü taraf bağlantılarına erişim riski size aittir.
 
 ---
 
-## 11. Değişiklikler
-Hizmet veya Koşullar zaman zaman değiştirilebilir.
-
-Değişikliklerden sonra kullanıma devam edilmesi, güncellenmiş Koşulların kabul edildiği anlamına gelir.
+## 8. Garanti Reddi
+Favz **“olduğu gibi”** ve **“mevcut olduğu şekilde”** sunulmaktadır. Kullanılabilirlik, güvenilirlik, kullanıcı tarafından oluşturulan içeriğin doğruluğu veya belirli bir amaca uygunluk konusunda hiçbir garanti vermiyoruz. Uygulamayı kullanma riski size aittir.
 
 ---
 
-## 12. Uygulanacak Hukuk
-Bu Koşullar, işletmecinin bulunduğu ülkenin hukukuna tabidir.
+## 9. Sorumluluğun Sınırlandırılması
+Yasaların izin verdiği azami ölçüde Favz; veri kaybından, dolaylı veya sonuç olarak ortaya çıkan zararlardan, kullanıcılar tarafından yayınlanan içerikten veya hesabınıza yetkisiz erişimden sorumlu tutulamaz.
 
 ---
 
-## 13. İletişim
-Bu Koşullar ile ilgili sorularınız için Uygulama içinden veya resmi destek kanallarımızdan bizimle iletişime geçebilirsiniz.
+## 10. Hizmet veya Şartlarda Değişiklikler
+Hizmetin bazı bölümlerini istediğimiz zaman değiştirebilir veya durdurabiliriz. Bu Şartları periyodik olarak güncelleyebiliriz. Değişikliklerden sonra Uygulamayı kullanmaya devam etmeniz, güncellenmiş Şartları kabul ettiğiniz anlamına gelir.
 
 ---
 
-**Favz’i kullanarak bu Kullanım Koşullarını kabul etmiş olursunuz.**
+## 11. Geçerli Hukuk
+Bu Şartlar, kanunlar ihtilafı kurallarına bakılmaksızın Almanya Federal Cumhuriyeti yasalarına tabi olacak ve bu yasalara göre yorumlanacaktır.
+
+---
+
+## 12. İletişim
+Bu Şartlar hakkında sorularınız veya endişeleriniz varsa, Uygulama üzerinden veya **appfavz@gmail.com** adresindeki resmi destek kanallarımız aracılığıyla bizimle iletişime geçebilirsiniz.
+
+---
+
+**Favz'ı kullanarak, bu Hizmet Şartlarını okuduğunuzu, anladığınızı ve kabul ettiğinizi beyan edersiniz.**
