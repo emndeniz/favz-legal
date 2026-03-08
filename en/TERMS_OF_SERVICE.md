@@ -1,15 +1,15 @@
 # Terms of Service
 
-**Last updated:** 26 December 2025
+**Last updated:** 8 March 2026
 
-Welcome to **Favz** (“App”, “Service”), operated by the Favz team (“we”, “us”, “our”).  
-By accessing or using Favz, you agree to be bound by these Terms of Service (“Terms”).  
+Welcome to **Favz** (“App”, “Service”), operated by the Favz Team (“we”, “us”, “our”).  
+By accessing or using Favz, you agree to be bound by these Terms of Service (“Terms”) and our Content & Community Guidelines.  
 If you do not agree, do not use the App.
 
 ---
 
 ## 1. Eligibility
-You must be at least **13 years old** to use Favz.  
+You must be at least **13 years old** to use Favz (or **16 years old** if you reside in the European Economic Area).  
 If you are under the age of majority in your country, you must have permission from a parent or legal guardian.
 
 ---
@@ -25,113 +25,81 @@ We reserve the right to suspend or terminate accounts that violate these Terms.
 ---
 
 ## 3. User-Generated Content
-Favz allows users to create, upload, store, and share content, including:
-- Text (titles, descriptions)
-- Links
-- Images
-- Lists and items (“User Content”)
+Favz allows users to create, upload, store, and share content, including text, links, images, and lists (“User Content”).
 
 ### Ownership
-You retain ownership of your User Content.
-
-By uploading content to Favz, you grant us a **non-exclusive, worldwide, royalty-free license** to host, store, display, and distribute your content solely for operating and improving the Service.
+You retain ownership of your User Content. By uploading content to Favz, you grant us a **non-exclusive, worldwide, royalty-free license** to host, store, display, and distribute your content solely for operating and improving the Service.
 
 ---
 
-## 4. Public Content
-If you choose to make content public:
-- It may be visible to other users
-- It may be indexed or shared within the App
-- Other users may report it
+## 4. Public Content and Community Rules
+By using Favz, you explicitly agree to follow our **Content & Community Guidelines**. 
+If you choose to make content public, it increases visibility and your responsibility. 
 
-You understand that **public content increases visibility and responsibility**.
-
----
-
-## 5. Prohibited Content and Conduct
-You agree **not** to upload, share, or make public any content that:
-
-- Is pornographic, sexually explicit, or obscene
-- Involves sexual content involving minors (zero tolerance)
-- Promotes violence, terrorism, or extreme harm
-- Contains hate speech or harassment
-- Violates intellectual property or copyright laws
-- Is illegal, misleading, or fraudulent
-- Contains malware, phishing, or malicious links
-- Is spam or abusive in nature
+You agree **not** to upload, share, or make public any objectionable content, including but not limited to:
+- Pornographic, sexually explicit, or obscene material
+- Sexual content involving minors (zero tolerance)
+- Content promoting violence, terrorism, or extreme harm
+- Hate speech, harassment, or bullying
+- Material violating intellectual property or copyright laws
 
 We reserve the right to remove any content that violates these rules **without prior notice**.
 
 ---
 
-## 6. Reporting and Moderation
-Favz provides mechanisms for users to report inappropriate public content.
+## 5. Reporting, Blocking, and Moderation
+Favz provides in-app mechanisms for users to block abusive users and report inappropriate public content.
 
-When content is reported, we may:
-- Review the content
-- Remove or restrict visibility
+When content or a user is reported, we will review it as soon as possible. We may:
+- Remove, filter, or restrict the visibility of the content
 - Suspend or permanently ban the responsible account
 
 Moderation decisions are final.
 
 ---
 
-## 7. Account Suspension and Termination
+## 6. Account Suspension and Termination
 We may suspend or terminate your access to Favz at any time if:
-- You violate these Terms
-- You repeatedly upload prohibited content
+- You violate these Terms or our Content & Community Guidelines
 - Your actions pose legal or security risks
 
-You may stop using the Service at any time.
+You may stop using the Service at any time by deleting your account within the app.
 
 ---
 
-## 8. Third-Party Links
-Favz may contain links to third-party websites or services.  
-We are **not responsible** for the content, policies, or practices of third parties.
-
-Accessing third-party links is at your own risk.
+## 7. Third-Party Links
+Favz may contain links to third-party websites or services. We are **not responsible** for the content, policies, or practices of third parties. Accessing third-party links is at your own risk.
 
 ---
 
-## 9. Disclaimer of Warranties
-Favz is provided **“as is”** and **“as available”**.
-
-We make no warranties regarding:
-- Availability or reliability
-- Accuracy of user-generated content
-- Fitness for a particular purpose
-
-Use the App at your own risk.
+## 8. Disclaimer of Warranties
+Favz is provided **“as is”** and **“as available”**. We make no warranties regarding availability, reliability, accuracy of user-generated content, or fitness for a particular purpose. Use the App at your own risk.
 
 ---
 
-## 10. Limitation of Liability
-To the maximum extent permitted by law, Favz shall not be liable for:
-- Loss of data
-- Indirect or consequential damages
-- Content posted by users
-- Unauthorized access to your account
+## 9. Limitation of Liability
+To the maximum extent permitted by law, Favz shall not be liable for loss of data, indirect or consequential damages, content posted by users, or unauthorized access to your account.
 
 ---
 
-## 11. Changes to the Service or Terms
-We may modify or discontinue parts of the Service at any time.
-
-We may update these Terms periodically.  
-Continued use of the App after changes means you accept the updated Terms.
+## 10. Changes to the Service or Terms
+We may modify or discontinue parts of the Service at any time. We may update these Terms periodically. Continued use of the App after changes means you accept the updated Terms.
 
 ---
 
-## 12. Governing Law
-These Terms are governed by the laws of the applicable jurisdiction based on the operator’s location, without regard to conflict of law principles.
+## 11. Severability
+If any provision of these Terms is found to be unenforceable or invalid under applicable law, that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions will continue in full force and effect.
+
+---
+
+## 12. Apple App Store Notice
+This agreement is between you and the Favz Team only, and not with Apple, Inc. ("Apple"). Apple is not responsible for the Application and its content. Apple has no obligation to provide any maintenance or support services with respect to the Application. In the event of any failure of the Application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) for the Application. To the maximum extent permitted by applicable law, Apple has no other warranty obligation with respect to the Application.
 
 ---
 
 ## 13. Contact
-If you have questions or concerns about these Terms, you may contact us through the App or via our official support channels.
+If you have questions or concerns about these Terms, you may contact us at **support@favzapp.com**.
 
 ---
 
 **By using Favz, you acknowledge that you have read, understood, and agreed to these Terms of Service.**
- 

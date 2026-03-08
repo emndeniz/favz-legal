@@ -1,23 +1,27 @@
 # Privacy Policy
 
-**Effective date:** 20 October 2025
+**Effective date:** 8 March 2026
 
-This Privacy Policy applies to the **Favz** mobile application (“Application”), created and operated by **Mehmet Emin Deniz** (“Service Provider”) as a free service.  
+This Privacy Policy applies to the **Favz** mobile application (“Application”), created and operated by **the Favz Team** (“Service Provider”) as a free service.  
 The Application is provided **“AS IS.”**
 
 ---
 
 ## 1. Information Collection and Use
 
-The Application collects information when you download and use it. This information may include:
+The Application collects information when you download and use it. To protect your privacy, we separate essential data collection from optional analytics.
 
-- Your device’s Internet Protocol (IP) address
+**Essential Data (Required for Core Functionality):**
+For a better experience and to provide core app functionality, the Service Provider requires certain personally identifiable information, including but not limited to:
+- Email address
+- User identifier (userId)
+
+**Optional Data (Usage & Analytics):**
+*Only if you explicitly opt-in*, the Application may collect anonymous usage data to help us improve the experience. This includes:
+- Your device’s Internet Protocol (IP) address (anonymized)
 - Pages within the Application that you visit
 - Time and date of your visits
-- Time spent in the Application
 - Your mobile device operating system
-
-This information is used to operate, maintain, and improve the Application.
 
 ---
 
@@ -25,119 +29,86 @@ This information is used to operate, maintain, and improve the Application.
 
 The Application **does not collect precise location data** (such as GPS coordinates).
 
-It may collect **approximate location information** derived from your IP address in order to:
-
-- Provide region-relevant content
-- Improve analytics and application performance
-- Understand aggregated usage patterns
-
-Any location data used is **coarse, anonymized, and non-precise**.
+If you opt-in to analytics, it may collect **approximate location information** derived from your anonymized IP address in order to provide region-relevant content and understand aggregated usage patterns. Any location data used is coarse, anonymized, and non-precise.
 
 ---
 
-## 3. Personal Information
+## 3. Third-Party Services and Data Processors
 
-For a better experience, the Service Provider may require certain personally identifiable information, including but not limited to:
+The Application uses third-party services to facilitate our service, provide backend infrastructure, and (with your consent) analyze app usage. These services act as Data Processors and operate under their own privacy policies.
 
-- Email address
-- User identifier (userId)
+Third-party services used by the Application include:
 
-This information is used solely to:
-- Provide core app functionality
-- Authenticate users
-- Maintain accounts
-- Communicate important service-related notices
+**Essential Infrastructure:**
+- **Firebase Authentication & Firestore:** For user login and database hosting. ([Privacy Policy](https://firebase.google.com/support/privacy))
+- **Typesense:** For processing search queries within the app. 
+- **DigitalOcean:** For backend server hosting and infrastructure. 
+- **Firebase Crashlytics:** For tracking app crashes and bugs to ensure stability.
 
-The information is retained and used in accordance with this Privacy Policy.
-
----
-
-## 4. Communications
-
-The Service Provider may contact you to:
-- Provide important service information
-- Communicate required notices related to your account or the Application
-
-The Application does **not** send unsolicited marketing or promotional emails without user consent.
+**Optional Analytics:**
+- **Google Analytics for Firebase:** Used for aggregated usage statistics *only if you have provided explicit consent* via the in-app toggle.
 
 ---
 
-## 5. Third-Party Services
-
-The Application uses third-party services that may collect information used to identify you. These services operate under their own privacy policies.
-
-Third-party services used by the Application may include:
-
-- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-- [Facebook / Meta](https://www.facebook.com/about/privacy/update/printable) *(if enabled)*
-
-Only **aggregated and anonymized data** is shared when applicable.
-
----
-
-## 6. Disclosure of Information
+## 4. Disclosure of Information
 
 The Service Provider may disclose User-Provided and Automatically Collected Information:
-
 - When required by law or legal process
 - When necessary to protect rights, safety, or prevent fraud
-- To trusted service providers who act on behalf of the Service Provider and comply with this Privacy Policy
+- To trusted service providers (listed above) who act on behalf of the Service Provider and comply with this Privacy Policy
 
 ---
 
-## 7. Opt-Out Rights
+## 5. European Economic Area (EEA) User Rights (GDPR)
 
-You can stop all collection of information by the Application by uninstalling it using the standard uninstall process available on your device or app marketplace.
+If you are a resident of the European Economic Area (EEA), you have specific data protection rights under the General Data Protection Regulation (GDPR). The Service Provider aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
----
+**Legal basis for processing your data:**
+- **Essential data** (email, userId) is processed on the basis of *contract performance* — it is necessary to provide the Service.
+- **Analytics data** is processed on the basis of *consent* — only collected if you explicitly opt-in via the in-app toggle.
 
-## 8. Data Retention
-
-User-provided data is retained for as long as you use the Application and for a reasonable period thereafter.
-
-If you wish to request deletion of your data, you may contact the Service Provider at:
-
-**📧 emndeniz@gmail.com**
-
-Requests will be handled within a reasonable timeframe.
-
----
-
-## 9. Children’s Privacy
-
-The Application does not knowingly collect personal information from children under the age of **13**.
-
-If the Service Provider becomes aware that personal information from a child under 13 has been collected, it will be deleted immediately.
-
-Parents or guardians who believe their child has provided personal information may contact the Service Provider.
+**Your rights include:**
+- **The right to access, update, or delete** the information we have on you.
+- **The right of rectification:** You have the right to have your information rectified if it is inaccurate or incomplete.
+- **The right to data portability:** You have the right to receive a copy of your personal data in a structured, machine-readable format.
+- **The right to object and restrict:** You have the right to object to or restrict our processing of your Personal Data.
+- **The right to withdraw consent:** You have the right to withdraw your consent at any time where you previously provided it (e.g., turning off Analytics in settings).
+- **The right to lodge a complaint:** You have the right to file a complaint with your local data protection supervisory authority if you believe your rights have been violated.
 
 ---
 
-## 10. Security
+## 6. Data Retention and Account Deletion
+
+User-provided data is retained for as long as you use the Application.
+
+**In-App Deletion:** You can delete your account and all associated personal data immediately and directly within the Application by navigating to App Settings and selecting "Delete Account." This removes your data without delay.
+
+Alternatively, you may contact the Service Provider at **support@favzapp.com** to request data deletion. Requests submitted via email will be processed within **90 days**.
+
+---
+
+## 7. Children’s Privacy
+
+The Application does not knowingly collect personal information from children under the age of **13** (or **16** in certain European jurisdictions). 
+
+If the Service Provider becomes aware that personal information from a child under the required age has been collected, it will be deleted immediately. Parents or guardians who believe their child has provided personal information may contact the Service Provider.
+
+---
+
+## 8. Security
 
 The Service Provider takes reasonable measures to protect your information and uses physical, electronic, and procedural safeguards to secure data processed and stored by the Application.
 
 ---
 
-## 11. Changes to This Privacy Policy
+## 9. Changes to This Privacy Policy
 
-This Privacy Policy may be updated periodically.  
-Any changes will be reflected by updating this page.
-
-Continued use of the Application after changes constitutes acceptance of the updated policy.
+This Privacy Policy may be updated periodically. Any changes will be reflected by updating this page. Continued use of the Application after changes constitutes acceptance of the updated policy.
 
 ---
 
-## 12. Your Consent
-
-By using the Application, you consent to the processing of your information as described in this Privacy Policy.
-
----
-
-## 13. Contact
+## 10. Contact
 
 If you have any questions about this Privacy Policy or data practices, please contact:
 
-**Favz App**  
-📧 appfavz@gmail.com
+**Favz App** 📧 support@favzapp.com
