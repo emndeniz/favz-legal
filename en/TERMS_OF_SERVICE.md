@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated:** 1 March 2026
+**Last updated:** 8 March 2026
 
 Welcome to **Favz** (“App”, “Service”), operated by the Favz Team (“we”, “us”, “our”).  
 By accessing or using Favz, you agree to be bound by these Terms of Service (“Terms”) and our Content & Community Guidelines.  
@@ -50,7 +50,7 @@ We reserve the right to remove any content that violates these rules **without p
 ## 5. Reporting, Blocking, and Moderation
 Favz provides in-app mechanisms for users to block abusive users and report inappropriate public content.
 
-When content or a user is reported, we commit to reviewing the report within 24 hours. We may:
+When content or a user is reported, we will review it as soon as possible. We may:
 - Remove, filter, or restrict the visibility of the content
 - Suspend or permanently ban the responsible account
 
@@ -87,13 +87,18 @@ We may modify or discontinue parts of the Service at any time. We may update the
 
 ---
 
-## 11. Governing Law
-These Terms shall be governed and construed in accordance with the laws of the Federal Republic of Germany, without regard to its conflict of law provisions. 
+## 11. Severability
+If any provision of these Terms is found to be unenforceable or invalid under applicable law, that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions will continue in full force and effect.
 
 ---
 
-## 12. Contact
-If you have questions or concerns about these Terms, you may contact us through the App or via our official support channels at **appfavz@gmail.com**.
+## 12. Apple App Store Notice
+This agreement is between you and the Favz Team only, and not with Apple, Inc. ("Apple"). Apple is not responsible for the Application and its content. Apple has no obligation to provide any maintenance or support services with respect to the Application. In the event of any failure of the Application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) for the Application. To the maximum extent permitted by applicable law, Apple has no other warranty obligation with respect to the Application.
+
+---
+
+## 13. Contact
+If you have questions or concerns about these Terms, you may contact us at **support@favzapp.com**.
 
 ---
 

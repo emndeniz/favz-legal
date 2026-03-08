@@ -1,6 +1,6 @@
 # Content & Community Guidelines
 
-**Last updated:** 1 March 2026
+**Last updated:** 8 March 2026
 
 Favz is a platform for collecting, organizing, and sharing inspirations, ideas, and useful content.  
 To keep Favz safe and welcoming, all users must follow these Content & Community Guidelines.
@@ -89,7 +89,7 @@ Reported links may be removed or blocked.
 ## 6. Reporting Content and Blocking Users
 Favz provides in-app tools to report public content and block users that violate these Guidelines.
 
-**Reporting & 24-Hour Review:** We take moderation seriously. When content or a user is reported, we commit to reviewing the report within 24 hours. We may temporarily hide the content during this review process.
+**Reporting & Review:** We take moderation seriously. When content or a user is reported, we will review it as soon as possible. We may temporarily hide the content during this review process.
 
 **Blocking Users:** If you encounter a user violating these guidelines or making you uncomfortable, you can use the in-app block feature to prevent them from interacting with you or your content.
 
@@ -116,7 +116,7 @@ We may update these Guidelines from time to time. Continued use of Favz after ch
 ---
 
 ## 10. Contact
-If you have questions or concerns regarding these Guidelines, please contact us through the App or via our official support channels.
+If you have questions or concerns regarding these Guidelines, please contact us at **support@favzapp.com** or through the App.
 
 ---
 

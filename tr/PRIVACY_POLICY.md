@@ -3,7 +3,7 @@
 
 # Gizlilik Politikası
 
-**Yürürlük tarihi:** 1 Mart 2026
+**Yürürlük tarihi:** 8 Mart 2026
 
 Bu Gizlilik Politikası, ücretsiz bir hizmet olarak **Favz ekibi** (“Hizmet Sağlayıcı”) tarafından oluşturulan ve işletilen **Favz** mobil uygulaması (“Uygulama”) için geçerlidir.  
 Uygulama **“OLDUĞU GİBİ”** sunulmaktadır.
@@ -66,21 +66,27 @@ Hizmet Sağlayıcı, Kullanıcı Tarafından Sağlanan ve Otomatik Olarak Toplan
 
 Eğer Avrupa Ekonomik Alanı (AEA) sakiniyseniz, Genel Veri Koruma Yönetmeliği (GDPR) kapsamında belirli veri koruma haklarına sahipsiniz. Hizmet Sağlayıcı, Kişisel Verilerinizi düzeltmenize, değiştirmenize, silmenize veya kullanımını sınırlamanıza olanak tanımak için makul adımları atmayı amaçlamaktadır.
 
-Haklarınız şunları içerir:
+**Verilerinizin işlenme hukuki dayanağı:**
+- **Temel veriler** (e-posta, userId) *sözleşmenin ifası* temelinde işlenir — Hizmetin sunulabilmesi için gereklidir.
+- **Analiz verileri** *rıza* temelinde işlenir — yalnızca uygulama içi ayardan açıkça onay vermeniz halinde toplanır.
+
+**Haklarınız şunları içerir:**
 - **Erişim, güncelleme veya silme hakkı:** Hakkınızda sahip olduğumuz bilgilere erişme, bunları güncelleme veya silme hakkı.
 - **Düzeltme hakkı:** Bilgilerinizin yanlış veya eksik olması durumunda bunların düzeltilmesini talep etme hakkı.
-- **İtiraz ve kısıtlama hakkı:** Kişisel Verilerinizi işlememize itiraz etme hakkı.
+- **Veri taşınabilirliği hakkı:** Kişisel verilerinizin yapılandırılmış, makine tarafından okunabilir bir formatta bir kopyasını alma hakkı.
+- **İtiraz ve kısıtlama hakkı:** Kişisel Verilerinizi işlememize itiraz etme veya işlemeyi kısıtlatma hakkı.
 - **İzni geri çekme hakkı:** Daha önce vermiş olduğunuz izni (örneğin ayarlardan Analizleri kapatarak) istediğiniz zaman geri çekme hakkı.
+- **Denetim makamına şikâyet hakkı:** Haklarınızın ihlal edildiğine inanıyorsanız yerel veri koruma denetim makamına şikâyette bulunma hakkına sahipsiniz.
 
 ---
 
 ## 6. Veri Saklama ve Hesap Silme
 
-Kullanıcı tarafından sağlanan veriler, Uygulamayı kullandığınız sürece ve sonrasında makul bir süre boyunca saklanır.
+Kullanıcı tarafından sağlanan veriler, Uygulamayı kullandığınız sürece saklanır.
 
-**Uygulama İçi Silme İşlemi:** Uygulama Ayarlarına gidip "Hesabı Sil" (Delete Account) seçeneğini belirleyerek hesabınızın ve ilişkili tüm kişisel verilerinizin tamamen silinmesini doğrudan Uygulama içinden talep edebilirsiniz.
+**Uygulama İçi Silme İşlemi:** Uygulama Ayarlarına gidip "Hesabı Sil" (Delete Account) seçeneğini belirleyerek hesabınızı ve ilişkili tüm kişisel verilerinizi anında ve doğrudan Uygulama içinden silebilirsiniz. Bu işlem herhangi bir gecikme olmaksızın verilerinizi kaldırır.
 
-Alternatif olarak, veri silme talebinde bulunmak için **support@favzapp.com** adresi üzerinden Hizmet Sağlayıcı ile iletişime geçebilirsiniz. Talepler en kısa sürede işleme alınacaktır.
+Alternatif olarak, veri silme talebinde bulunmak için **support@favzapp.com** adresi üzerinden Hizmet Sağlayıcı ile iletişime geçebilirsiniz. E-posta ile iletilen talepler **90 gün** içinde işleme alınacaktır.
 
 ---
 

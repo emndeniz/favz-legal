@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** 1 March 2026
+**Effective date:** 8 March 2026
 
 This Privacy Policy applies to the **Favz** mobile application (“Application”), created and operated by **the Favz Team** (“Service Provider”) as a free service.  
 The Application is provided **“AS IS.”**
@@ -63,21 +63,27 @@ The Service Provider may disclose User-Provided and Automatically Collected Info
 
 If you are a resident of the European Economic Area (EEA), you have specific data protection rights under the General Data Protection Regulation (GDPR). The Service Provider aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
-Your rights include:
+**Legal basis for processing your data:**
+- **Essential data** (email, userId) is processed on the basis of *contract performance* — it is necessary to provide the Service.
+- **Analytics data** is processed on the basis of *consent* — only collected if you explicitly opt-in via the in-app toggle.
+
+**Your rights include:**
 - **The right to access, update, or delete** the information we have on you.
 - **The right of rectification:** You have the right to have your information rectified if it is inaccurate or incomplete.
-- **The right to object and restrict:** You have the right to object to our processing of your Personal Data.
+- **The right to data portability:** You have the right to receive a copy of your personal data in a structured, machine-readable format.
+- **The right to object and restrict:** You have the right to object to or restrict our processing of your Personal Data.
 - **The right to withdraw consent:** You have the right to withdraw your consent at any time where you previously provided it (e.g., turning off Analytics in settings).
+- **The right to lodge a complaint:** You have the right to file a complaint with your local data protection supervisory authority if you believe your rights have been violated.
 
 ---
 
 ## 6. Data Retention and Account Deletion
 
-User-provided data is retained for as long as you use the Application and for a reasonable period thereafter.
+User-provided data is retained for as long as you use the Application.
 
-**In-App Deletion:** You can request the complete deletion of your account and all associated personal data directly within the Application by navigating to the App Settings and selecting "Delete Account."
+**In-App Deletion:** You can delete your account and all associated personal data immediately and directly within the Application by navigating to App Settings and selecting "Delete Account." This removes your data without delay.
 
-Alternatively, you may contact the Service Provider at **support@favzapp.com** to request data deletion. Requests will be handled promptly.
+Alternatively, you may contact the Service Provider at **support@favzapp.com** to request data deletion. Requests submitted via email will be processed within **90 days**.
 
 ---
 

@@ -3,7 +3,7 @@
 
 # İçerik ve Topluluk Kuralları
 
-**Son güncelleme:** 1 Mart 2026
+**Son güncelleme:** 8 Mart 2026
 
 Favz; ilhamları, fikirleri ve faydalı içerikleri toplamak, düzenlemek ve paylaşmak için bir platformdur.  
 Favz'ı güvenli ve samimi tutmak için tüm kullanıcılar bu İçerik ve Topluluk Kurallarına uymalıdır.
@@ -92,7 +92,7 @@ Bildirilen bağlantılar kaldırılabilir veya engellenebilir.
 ## 6. İçeriği Bildirme ve Kullanıcıları Engelleme
 Favz, herkese açık içeriği bildirmek ve bu Kuralları ihlal eden kullanıcıları engellemek için uygulama içi araçlar sağlar.
 
-**Bildirme ve 24 Saatlik İnceleme:** Moderasyonu ciddiye alıyoruz. Bir içerik veya kullanıcı bildirildiğinde, raporu 24 saat içinde incelemeyi taahhüt ediyoruz. Bu inceleme sürecinde içeriği geçici olarak gizleyebiliriz.
+**Bildirme ve İnceleme:** Moderasyonu ciddiye alıyoruz. Bir içerik veya kullanıcı bildirildiğinde, raporu en kısa sürede inceleyeceğiz. Bu inceleme sürecinde içeriği geçici olarak gizleyebiliriz.
 
 **Kullanıcıları Engelleme:** Bu kuralları ihlal eden veya sizi rahatsız eden bir kullanıcıyla karşılaşırsanız, sizinle veya içeriğinizle etkileşime girmesini önlemek için uygulama içi engelleme özelliğini kullanabilirsiniz.
 
@@ -119,7 +119,7 @@ Bu Kuralları zaman zaman güncelleyebiliriz. Değişikliklerden sonra Favz'ı k
 ---
 
 ## 10. İletişim
-Bu Kurallar hakkında sorularınız veya endişeleriniz varsa, lütfen Uygulama üzerinden veya resmi destek kanallarımız aracılığıyla bizimle iletişime geçin.
+Bu Kurallar hakkında sorularınız veya endişeleriniz varsa **support@favzapp.com** adresinden veya Uygulama üzerinden bizimle iletişime geçin.
 
 ---
 
